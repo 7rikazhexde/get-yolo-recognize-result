@@ -1,0 +1,15 @@
+{
+  "name": "get_yolo_recognize_result",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "7rikaz_h785",
+  "license": "ISC",
+  "dependencies": {
+    "JSONStream": "^1.3.5",
+    "request": "^2.88.2"
+  }
+}
