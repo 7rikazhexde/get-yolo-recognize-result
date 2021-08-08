@@ -1,0 +1,1489 @@
+Demo
+net.optimized_memory = 0 
+mini_batch = 1, batch = 1, time_steps = 1, train = 0 
+Create CUDA-stream - 0 
+ Create cudnn-handle 0 
+
+ seen 64, trained: 32013 K-images (500 Kilo-batches_64) 
+video file: rtp://@239.1.1.5:8004
+Video stream: 640 x 360 
+Objects:
+
+ JSON-stream sent. 
+
+FPS:0.0 	 AVG_FPS:0.0
+Objects:
+
+ JSON-stream sent. 
+dog: 76% 
+
+FPS:0.6 	 AVG_FPS:0.0
+Objects:
+
+ JSON-stream sent. 
+dog: 72% 
+
+FPS:1.2 	 AVG_FPS:0.0
+Objects:
+
+ JSON-stream sent. 
+dog: 75% 
+
+FPS:1.8 	 AVG_FPS:0.0
+Objects:
+
+ JSON-stream sent. 
+dog: 76% 
+
+FPS:2.2 	 AVG_FPS:0.0
+Objects:
+
+ JSON-stream sent. 
+dog: 70% 
+
+FPS:2.6 	 AVG_FPS:0.0
+Objects:
+
+ JSON-stream sent. 
+dog: 76% 
+
+FPS:3.0 	 AVG_FPS:0.0
+Objects:
+
+ JSON-stream sent. 
+dog: 70% 
+
+FPS:3.4 	 AVG_FPS:0.0
+Objects:
+
+ JSON-stream sent. 
+dog: 66% 
+
+FPS:3.6 	 AVG_FPS:0.0
+Objects:
+
+ JSON-stream sent. 
+dog: 67% 
+
+FPS:4.0 	 AVG_FPS:0.0
+Objects:
+
+ JSON-stream sent. 
+dog: 73% 
+
+FPS:4.3 	 AVG_FPS:0.0
+Objects:
+
+ JSON-stream sent. 
+dog: 72% 
+
+FPS:4.5 	 AVG_FPS:0.0
+Objects:
+
+ JSON-stream sent. 
+dog: 69% 
+
+FPS:4.7 	 AVG_FPS:0.0
+Objects:
+
+ JSON-stream sent. 
+dog: 69% 
+
+FPS:4.9 	 AVG_FPS:0.0
+Objects:
+
+ JSON-stream sent. 
+dog: 69% 
+
+FPS:5.1 	 AVG_FPS:0.0
+Objects:
+
+ JSON-stream sent. 
+dog: 68% 
+
+FPS:5.2 	 AVG_FPS:0.0
+Objects:
+
+ JSON-stream sent. 
+dog: 70% 
+
+FPS:5.3 	 AVG_FPS:0.0
+Objects:
+
+ JSON-stream sent. 
+dog: 72% 
+
+FPS:5.4 	 AVG_FPS:0.0
+Objects:
+
+ JSON-stream sent. 
+dog: 68% 
+
+FPS:5.5 	 AVG_FPS:0.0
+Objects:
+
+ JSON-stream sent. 
+dog: 68% 
+
+FPS:5.5 	 AVG_FPS:0.0
+Objects:
+
+ JSON-stream sent. 
+dog: 67% 
+
+FPS:5.6 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 70% 
+
+FPS:5.7 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 70% 
+
+FPS:5.8 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 73% 
+
+FPS:5.9 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 69% 
+
+FPS:6.0 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 72% 
+
+FPS:6.1 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 70% 
+
+FPS:6.2 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 70% 
+
+FPS:6.2 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 72% 
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 71% 
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 71% 
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 76% 
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 75% 
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 77% 
+
+FPS:6.4 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 76% 
+
+FPS:6.4 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 76% 
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 74% 
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 77% 
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 76% 
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 72% 
+
+FPS:6.4 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 75% 
+
+FPS:6.4 	 AVG_FPS:6.6
+Objects:
+
+ JSON-stream sent. 
+cat: 33% , dog: 73% 
+
+FPS:6.3 	 AVG_FPS:6.6
+Objects:
+
+ JSON-stream sent. 
+dog: 78% 
+
+FPS:6.3 	 AVG_FPS:6.6
+Objects:
+
+ JSON-stream sent. 
+dog: 76% 
+
+FPS:6.4 	 AVG_FPS:6.6
+Objects:
+
+ JSON-stream sent. 
+dog: 67% 
+
+FPS:6.4 	 AVG_FPS:6.6
+Objects:
+
+ JSON-stream sent. 
+dog: 74% 
+
+FPS:6.4 	 AVG_FPS:6.6
+Objects:
+
+ JSON-stream sent. 
+dog: 77% 
+
+FPS:6.4 	 AVG_FPS:6.6
+Objects:
+
+ JSON-stream sent. 
+cat: 37% , dog: 61% 
+
+FPS:6.3 	 AVG_FPS:6.6
+Objects:
+
+ JSON-stream sent. 
+cat: 30% , dog: 70% 
+
+FPS:6.3 	 AVG_FPS:6.6
+Objects:
+
+ JSON-stream sent. 
+dog: 74% 
+
+FPS:6.4 	 AVG_FPS:6.6
+Objects:
+
+ JSON-stream sent. 
+dog: 66% 
+
+FPS:6.4 	 AVG_FPS:6.6
+Objects:
+
+ JSON-stream sent. 
+dog: 65% 
+
+FPS:6.5 	 AVG_FPS:6.6
+Objects:
+
+ JSON-stream sent. 
+dog: 61% 
+
+FPS:6.5 	 AVG_FPS:6.6
+Objects:
+
+ JSON-stream sent. 
+dog: 61% 
+
+FPS:6.5 	 AVG_FPS:6.6
+Objects:
+
+ JSON-stream sent. 
+dog: 63% 
+
+FPS:6.5 	 AVG_FPS:6.6
+Objects:
+
+ JSON-stream sent. 
+dog: 64% 
+
+FPS:6.5 	 AVG_FPS:6.6
+Objects:
+
+ JSON-stream sent. 
+dog: 58% 
+
+FPS:6.5 	 AVG_FPS:6.6
+Objects:
+
+ JSON-stream sent. 
+dog: 51% 
+
+FPS:6.5 	 AVG_FPS:6.6
+Objects:
+
+ JSON-stream sent. 
+dog: 74% 
+
+FPS:6.5 	 AVG_FPS:6.6
+Objects:
+
+ JSON-stream sent. 
+dog: 65% 
+
+FPS:6.6 	 AVG_FPS:6.6
+Objects:
+
+ JSON-stream sent. 
+cat: 35% , dog: 57% 
+
+FPS:6.6 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+cat: 38% , dog: 44% 
+
+FPS:6.6 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+cat: 36% , dog: 45% 
+
+FPS:6.6 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+cat: 30% , dog: 56% 
+
+FPS:6.6 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+cat: 30% , dog: 56% 
+
+FPS:6.6 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+cat: 33% , dog: 56% 
+
+FPS:6.6 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+cat: 27% , dog: 55% 
+
+FPS:6.6 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+dog: 55% 
+
+FPS:6.5 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+dog: 56% 
+
+FPS:6.5 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+dog: 61% 
+
+FPS:6.5 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+dog: 57% 
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+dog: 56% 
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+dog: 58% 
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+cat: 28% , dog: 53% 
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+cat: 31% , dog: 54% 
+
+FPS:6.3 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+cat: 31% , dog: 57% 
+
+FPS:6.3 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+cat: 37% , dog: 52% 
+
+FPS:6.3 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+dog: 58% 
+
+FPS:6.3 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+dog: 63% 
+
+FPS:6.2 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+dog: 65% 
+
+FPS:6.3 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 65% 
+
+FPS:6.3 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 65% 
+
+FPS:6.3 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 69% 
+
+FPS:6.4 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 70% 
+
+FPS:6.3 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 69% 
+
+FPS:6.3 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 68% 
+
+FPS:6.4 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 68% 
+
+FPS:6.4 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 71% 
+
+FPS:6.5 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 74% 
+
+FPS:6.4 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 76% 
+
+FPS:6.5 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 71% 
+
+FPS:6.4 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 74% 
+
+FPS:6.5 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+cat: 29% , dog: 71% 
+
+FPS:6.5 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+cat: 29% , dog: 67% 
+
+FPS:6.5 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 72% 
+
+FPS:6.5 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 68% 
+
+FPS:6.5 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 76% 
+
+FPS:6.5 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 76% 
+
+FPS:6.5 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 75% 
+
+FPS:6.5 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 77% 
+
+FPS:6.5 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+dog: 75% 
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+dog: 72% 
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+dog: 71% 
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+dog: 71% 
+
+FPS:6.3 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+dog: 73% 
+
+FPS:6.3 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+dog: 70% 
+
+FPS:6.3 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+dog: 71% 
+
+FPS:6.3 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+dog: 69% 
+
+FPS:6.2 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+dog: 70% 
+
+FPS:6.1 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+dog: 71% 
+
+FPS:6.2 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+dog: 71% 
+
+FPS:6.2 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+dog: 71% 
+
+FPS:6.3 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+dog: 68% 
+
+FPS:6.3 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+dog: 70% 
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+dog: 72% 
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+dog: 73% 
+
+FPS:6.5 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+dog: 75% 
+
+FPS:6.5 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+dog: 73% 
+
+FPS:6.5 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+dog: 71% 
+
+FPS:6.6 	 AVG_FPS:6.5
+Objects:
+
+ JSON-stream sent. 
+dog: 70% 
+
+FPS:6.6 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 73% 
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 73% 
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 69% 
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 70% 
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 70% 
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 73% 
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 73% 
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 76% 
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 77% 
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 75% 
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 74% 
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 77% 
+
+FPS:6.6 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 78% 
+
+FPS:6.6 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 71% 
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+cat: 31% , dog: 75% 
+
+FPS:6.2 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+cat: 31% , dog: 71% 
+
+FPS:6.2 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+cat: 25% , dog: 72% 
+
+FPS:6.2 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 67% 
+
+FPS:6.2 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 72% 
+
+FPS:6.2 	 AVG_FPS:6.1
+Objects:
+
+ JSON-stream sent. 
+dog: 73% 
+
+FPS:6.2 	 AVG_FPS:6.1
+Objects:
+
+ JSON-stream sent. 
+cat: 42% , dog: 61% 
+
+FPS:6.2 	 AVG_FPS:6.1
+Objects:
+
+ JSON-stream sent. 
+cat: 28% , dog: 68% 
+
+FPS:6.2 	 AVG_FPS:6.1
+Objects:
+
+ JSON-stream sent. 
+dog: 70% 
+
+FPS:6.2 	 AVG_FPS:6.1
+Objects:
+
+ JSON-stream sent. 
+dog: 63% 
+
+FPS:6.2 	 AVG_FPS:6.1
+Objects:
+
+ JSON-stream sent. 
+dog: 62% 
+
+FPS:6.3 	 AVG_FPS:6.1
+Objects:
+
+ JSON-stream sent. 
+dog: 61% 
+
+FPS:6.4 	 AVG_FPS:6.1
+Objects:
+
+ JSON-stream sent. 
+dog: 64% 
+
+FPS:6.4 	 AVG_FPS:6.1
+Objects:
+
+ JSON-stream sent. 
+dog: 60% 
+
+FPS:6.4 	 AVG_FPS:6.1
+Objects:
+
+ JSON-stream sent. 
+dog: 69% 
+
+FPS:6.4 	 AVG_FPS:6.1
+Objects:
+
+ JSON-stream sent. 
+dog: 62% 
+
+FPS:6.4 	 AVG_FPS:6.1
+Objects:
+
+ JSON-stream sent. 
+dog: 66% 
+
+FPS:6.4 	 AVG_FPS:6.1
+Objects:
+
+ JSON-stream sent. 
+dog: 76% 
+
+FPS:6.5 	 AVG_FPS:6.1
+Objects:
+
+ JSON-stream sent. 
+dog: 67% 
+
+FPS:6.5 	 AVG_FPS:6.1
+Objects:
+
+ JSON-stream sent. 
+tvmonitor: 26% 
+cat: 27% , dog: 64% 
+
+FPS:6.5 	 AVG_FPS:6.1
+Objects:
+
+ JSON-stream sent. 
+dog: 52% 
+
+FPS:6.4 	 AVG_FPS:6.1
+Objects:
+
+ JSON-stream sent. 
+cat: 28% , dog: 54% 
+dog: 26% 
+
+FPS:6.3 	 AVG_FPS:6.1
+Objects:
+
+ JSON-stream sent. 
+cat: 35% , dog: 55% 
+
+FPS:6.3 	 AVG_FPS:6.1
+Objects:
+
+ JSON-stream sent. 
+cat: 34% , dog: 52% 
+
+FPS:6.2 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+cat: 37% , dog: 55% 
+
+FPS:6.2 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+cat: 34% , dog: 53% 
+
+FPS:6.1 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+cat: 36% , dog: 52% 
+
+FPS:6.1 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+cat: 45% , dog: 52% 
+
+FPS:6.1 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+cat: 34% , dog: 55% 
+
+FPS:6.2 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+cat: 33% , dog: 56% 
+
+FPS:6.3 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+cat: 35% , dog: 56% 
+
+FPS:6.3 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+cat: 41% , dog: 49% 
+
+FPS:6.4 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+cat: 43% , dog: 47% 
+
+FPS:6.4 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+cat: 39% , dog: 50% 
+
+FPS:6.4 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+cat: 39% , dog: 48% 
+
+FPS:6.4 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+cat: 29% , dog: 55% 
+
+FPS:6.5 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+cat: 27% , dog: 56% 
+
+FPS:6.4 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+cat: 25% , dog: 58% 
+
+FPS:6.4 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 64% 
+
+FPS:6.4 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 66% 
+
+FPS:6.5 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 68% 
+
+FPS:6.5 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 71% 
+
+FPS:6.4 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 71% 
+
+FPS:6.4 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 71% 
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 69% 
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 68% 
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 69% 
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 74% 
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 72% 
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 68% 
+
+FPS:6.2 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+cat: 36% , dog: 58% 
+
+FPS:6.2 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+cat: 30% , dog: 66% 
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 74% 
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 71% 
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 74% 
+
+FPS:6.4 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 75% 
+
+FPS:6.4 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 78% 
+
+FPS:6.4 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 75% 
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 78% 
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 76% 
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 74% 
+
+FPS:6.6 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 73% 
+
+FPS:6.6 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 68% 
+
+FPS:6.6 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 70% 
+
+FPS:6.6 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 72% 
+
+FPS:6.4 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 71% 
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 72% 
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 72% 
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 70% 
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 71% 
+
+FPS:6.2 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 72% 
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 74% 
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 74% 
+
+FPS:6.4 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 75% 
+
+FPS:6.4 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 70% 
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 69% 
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 68% 
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 72% 
+
+FPS:6.4 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 73% 
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 71% 
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 72% 
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 71% 
+
+FPS:6.6 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 70% 
+
+FPS:6.6 	 AVG_FPS:6.4
+Objects:
+
+ JSON-stream sent. 
+dog: 71% 
+
+FPS:6.5 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 73% 
+
+FPS:6.5 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 72% 
+
+FPS:6.5 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 74% 
+
+FPS:6.5 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 70% 
+
+FPS:6.6 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 70% 
+
+FPS:6.5 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 70% 
+
+FPS:6.5 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 70% 
+
+FPS:6.5 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 74% 
+
+FPS:6.5 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 71% 
+
+FPS:6.6 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+cat: 42% , dog: 71% 
+
+FPS:6.5 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 83% 
+
+FPS:6.6 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 72% 
+
+FPS:6.6 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 65% 
+
+FPS:6.6 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+cat: 26% , dog: 68% 
+
+FPS:6.6 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 70% 
+
+FPS:6.6 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+cat: 27% , dog: 62% 
+
+FPS:6.6 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+cat: 36% , dog: 63% 
+
+FPS:6.6 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+cat: 26% , dog: 67% 
+
+FPS:6.6 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 74% 
+
+FPS:6.6 	 AVG_FPS:6.3
+Objects:
+
+ JSON-stream sent. 
+dog: 69% 
+
+FPS:6.6 	 AVG_FPS:6.6
+Objects:
+
+ JSON-stream sent. 
+dog: 65% 
+
+FPS:6.6 	 AVG_FPS:6.6
+Objects:
+
+ JSON-stream sent. 
+dog: 64% 
+
+FPS:6.6 	 AVG_FPS:6.6
+Objects:
+
+ JSON-stream sent. 
+dog: 64% 
+
+FPS:6.6 	 AVG_FPS:6.6
+Objects:
+
+ JSON-stream sent. 
+dog: 60% 
+
+FPS:6.7 	 AVG_FPS:6.6
+Objects:
+
+ JSON-stream sent. 
+dog: 66% 
+
+FPS:6.7 	 AVG_FPS:6.6
+Objects:
+
+ JSON-stream sent. 
+dog: 59% 
+
+FPS:6.6 	 AVG_FPS:6.6
+Objects:
+
+ JSON-stream sent. 
+dog: 59% 
+
+FPS:6.6 	 AVG_FPS:6.6
+Objects:
+
+ JSON-stream sent. 
+dog: 70% 
+
+FPS:6.6 	 AVG_FPS:6.6
+Objects:
+
+ JSON-st
