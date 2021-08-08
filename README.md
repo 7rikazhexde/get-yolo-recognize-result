@@ -4,6 +4,9 @@ Perform object detection with darknet and retrieve the results in node.js (json)
 
 ### Prerequisites
 * ./darknet command must be executable.
+```
+$ git clone https://github.com/AlexeyAB/darknet.git
+```
 * GPU is recommended to run darknet command.
 * Use the RTP protocol for data acquisition.
 * The operation was confirmed by JesonNano.
@@ -48,6 +51,7 @@ $ wget https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v4_pre
 ```
 #### testdata
 * testdata/Dog_45588.mp4  (Source:[pxabay](https://pixabay.com/ja/videos/%E7%8A%AC-%E3%83%91%E3%82%B0-%E5%8B%95%E7%89%A9-%E3%83%9A%E3%83%83%E3%83%88-45588/))
+* If you want to run the darknet command, store the file in darknet/data.
 
 #### mp4
 * DL Size: 960X540
