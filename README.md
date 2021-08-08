@@ -77,7 +77,7 @@ $ ./darknet detector demo cfg/coco.data cfg/yolov3-tiny.cfg weight/yolov3-tiny.w
 * yolov4-tiny 
 
 ```
-$ ./darknet detector demo cfg/coco.data cfg/yolov3-tiny.cfg weight/yolov4-tiny.weights rtp://@239.1.1.5:8004 -json_port 5000 > result/Dog_45588/OOBS_Dog_tinyv4.txt
+$ ./darknet detector demo cfg/coco.data cfg/yolov4-tiny.cfg weight/yolov4-tiny.weights rtp://@239.1.1.5:8004 -json_port 5000 > result/Dog_45588/OOBS_Dog_tinyv4.txt
 ```
 
 
