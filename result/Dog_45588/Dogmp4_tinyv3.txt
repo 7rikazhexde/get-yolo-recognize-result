@@ -1,0 +1,1459 @@
+Demo
+net.optimized_memory = 0 
+mini_batch = 1, batch = 1, time_steps = 1, train = 0 
+Create CUDA-stream - 0 
+ Create cudnn-handle 0 
+
+ seen 64, trained: 32013 K-images (500 Kilo-batches_64) 
+video file: data/Dog-45588.mp4
+Video stream: 960 x 540 
+Objects:
+
+
+FPS:0.0 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:0.7 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:1.2 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:1.8 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:2.2 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:2.7 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:3.1 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:3.5 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:3.8 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:4.1 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:4.4 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:4.6 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:4.8 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:5.0 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:5.2 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:5.3 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:5.4 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:5.5 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:5.5 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:5.6 	 AVG_FPS:0.0
+Objects:
+
+
+FPS:5.7 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:5.8 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:5.9 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.0 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.1 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.1 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.6
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.6
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.6
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.6
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.6
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.6
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.6
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.6
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.6
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.6
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.6
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.6
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.6
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.6
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.6
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.6
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.6
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.6
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.6
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.6
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.0 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.1 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.1 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.1 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.1 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.1 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.1 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.1 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.1 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.1 	 AVG_FPS:6.0
+Objects:
+
+
+FPS:6.1 	 AVG_FPS:6.0
+Objects:
+
+
+FPS:6.1 	 AVG_FPS:6.0
+Objects:
+
+
+FPS:6.1 	 AVG_FPS:6.0
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:6.0
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:6.0
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:6.0
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:6.0
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.0
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:6.0
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.0
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.0
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.0
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:6.0
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:6.0
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:6.0
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:6.0
+Objects:
+
+
+FPS:6.1 	 AVG_FPS:6.0
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:6.0
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.1 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.1 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.6 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.6 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.6 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.6 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.6 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.0 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.1 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.1 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:5.7
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:5.7
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:5.7
+Objects:
+
+
+FPS:6.1 	 AVG_FPS:5.7
+Objects:
+
+
+FPS:6.1 	 AVG_FPS:5.7
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:5.7
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:5.7
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:5.7
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:5.7
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:5.7
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:5.7
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:5.7
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:5.7
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:5.7
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:5.7
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:5.7
+Objects:
+
+
+FPS:6.1 	 AVG_FPS:5.7
+Objects:
+
+
+FPS:6.1 	 AVG_FPS:5.7
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:5.7
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.2
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.6 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.6 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.6 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.6 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.6 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.6 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.6 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.6 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.6 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.7 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.7 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.7 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.7 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.7 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.7 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.7 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.7 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.6 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.6 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.6 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.5 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.5
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.4 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.0 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.1 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.1 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.1 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.1 	 AVG_FPS:6.4
+Objects:
+
+
+FPS:6.1 	 AVG_FPS:5.9
+Objects:
+
+
+FPS:6.1 	 AVG_FPS:5.9
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:5.9
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:5.9
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:5.9
+Objects:
+
+
+FPS:6.1 	 AVG_FPS:5.9
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:5.9
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:5.9
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:5.9
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:5.9
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:5.9
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:5.9
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:5.9
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:5.9
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:5.9
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:5.9
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:5.9
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:5.9
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:5.9
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.3
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:6.3
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:6.3
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.3
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:6.3
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:6.3
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:6.3
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:6.3
+Objects:
+
+
+FPS:6.2 	 AVG_FPS:6.3
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.3
+Objects:
+
+
+FPS:6.3 	 AVG_FPS:6.3
+Stream closed.
+input video stream closed. 
